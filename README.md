@@ -72,7 +72,7 @@ rag-system/
 ## Technology Choice Justifications
 
 * **FastAPI:** Lightweight, fast, and easy to document and test APIs.
-Gemini API (2.5 Flash): Used due to its free-tier accessibility for quick prototyping, ease of integration, and high-quality language understanding. Gemini is also fully capable of handling high-end, production-level queries when upgraded, making it a scalable and versatile choice for RAG systems.
+* Gemini API (2.5 Flash): Used due to its free-tier accessibility for quick prototyping, ease of integration, and high-quality language understanding. Gemini is also fully capable of handling high-end, production-level queries when upgraded, making it a scalable and versatile choice for RAG systems.
 * **FAISS:** Efficient similarity search for vector embeddings.
 * **Sentence Transformers (`all-MiniLM-L6-v2`):** Compact and effective embeddings for semantic search.
 * **PDFPlumber, python-docx, pytesseract:** Robust extraction from PDF, DOCX, and images.
