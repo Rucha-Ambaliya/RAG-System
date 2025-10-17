@@ -488,5 +488,48 @@
       }
     ],
     "file_name": "report.docx"
+  },
+  "8c31b646-819f-43e5-ab06-d670ae8c13da": {
+    "chunks_meta": [
+      {
+        "page": 1,
+        "chunk": "Chapter 1: Down the Rabbit-Hole Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do. Once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, 'and what is the use of a book,' thought Alice 'without pictures or conversation?' So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by her. There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, 'Oh dear! Oh dear! I shall be late!' (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on, Alice started to her feet, for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge."
+      }
+    ],
+    "file_name": "book.txt"
+  },
+  "22d01048-04a6-4462-9db9-a61f2bd553d5": {
+    "chunks_meta": [
+      {
+        "page": 1,
+        "chunk": "Title: Impact of AI on Education Abstract: This paper explores the transformative role of Artificial Intelligence (AI) in modern education systems. AI has improved accessibility, personalization, and scalability of learning. In this study, we analyze the impact of AI tools in classrooms and e-learning environments. Keywords: AI, Education, Personalized Learning, Automation"
+      },
+      {
+        "page": 2,
+        "chunk": "1. Introduction Artificial Intelligence enables adaptive learning platforms that respond to students' progress in real-time. Educators are integrating AI-powered tools for grading, content recommendations, and automated feedback."
+      },
+      {
+        "page": 3,
+        "chunk": "\"Section 2: Methodology This study is based on surveys conducted across 25 schools in urban areas. Data was collected through structured questionnaires and analyzed using descriptive statistics.\""
+      },
+      {
+        "page": 4,
+        "chunk": "3. Results Out of 500 students surveyed, 72% reported an improvement in their learning pace using AI-based tools. Teachers also found reduced administrative workload."
+      },
+      {
+        "page": 5,
+        "chunk": "4. Conclusion AI is not a replacement for teachers but a catalyst for improving learning efficiency and engagement. Future work involves integrating AI with AR/VR for immersive classrooms."
+      }
+    ],
+    "file_name": "paper.pdf"
+  },
+  "8781c5cc-d0d6-4d4b-9fa5-25ba78783456": {
+    "chunks_meta": [
+      {
+        "page": 1,
+        "chunk": "Title: Impact of AI on Education Abstract: This paper explores the transformative role of Artificial Intelligence (AI) in modern education systems. AI has improved accessibility, personalization, and scalability of learning. In this study, we analyze the impact of AI tools in classrooms and e-learning environments. Keywords: AI, Education, Personalized Learning, Automation 1. Introduction Artificial Intelligence enables adaptive learning platforms that respond to students' progress in real-time. Educators are integrating AI-powered tools for grading, content recommendations, and automated feedback. \"Section 2: Methodology This study is based on surveys conducted across 25 schools in urban areas. Data was collected through structured questionnaires and analyzed using descriptive statistics.\" 3. Results Out of 500 students surveyed, 72% reported an improvement in their learning pace using AI-based tools. Teachers also found reduced administrative workload. 4. Conclusion AI is not a replacement for teachers but a catalyst for improving learning efficiency and engagement. Future work involves integrating AI with AR/VR for immersive classrooms."
+      }
+    ],
+    "file_name": "report.docx"
   }
 }

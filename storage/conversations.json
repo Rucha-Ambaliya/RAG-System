@@ -1016,5 +1016,125 @@
         }
       ]
     }
+  ],
+  "cc279b21-05c2-4003-b66e-b43979fa96fa": [
+    {
+      "query": "Who does Alice follow?",
+      "answer": "Alice follows a White Rabbit.",
+      "citations": [
+        {
+          "page": 1,
+          "document_name": "book.txt"
+        },
+        {
+          "page": 1,
+          "document_name": "book.txt"
+        },
+        {
+          "page": 1,
+          "document_name": "book.txt"
+        }
+      ]
+    }
+  ],
+  "608f3145-1f0e-43e8-9f77-80847f57ca50": [
+    {
+      "query": "What event starts Alice's adventure?",
+      "answer": "Alice's adventure starts when a White Rabbit with pink eyes runs close by her, takes a watch out of its waistcoat-pocket, and looks at it before hurrying on. This unusual sight sparks Alice's curiosity, causing her to run after it and see it pop down a large rabbit-hole.",
+      "citations": [
+        {
+          "page": 1,
+          "document_name": "book.txt"
+        },
+        {
+          "page": 1,
+          "document_name": "book.txt"
+        },
+        {
+          "page": 1,
+          "document_name": "book.txt"
+        }
+      ]
+    }
+  ],
+  "55c9b21e-7417-46fd-9fc6-0536cd9b769b": [
+    {
+      "query": "What is the main argument of the document?",
+      "answer": "The main argument of the document is that Artificial Intelligence (AI) plays a transformative role in modern education systems, improving the accessibility, personalization, and scalability of learning. It explores the impact of AI tools in both classrooms and e-learning environments.",
+      "citations": [
+        {
+          "page": 1,
+          "document_name": "paper.pdf"
+        },
+        {
+          "page": 2,
+          "document_name": "paper.pdf"
+        },
+        {
+          "page": 3,
+          "document_name": "paper.pdf"
+        }
+      ]
+    }
+  ],
+  "8cac96ba-c782-4dc5-b5db-31719e6721bd": [
+    {
+      "query": "Explain AI impact in education",
+      "answer": "AI has a transformative role in modern education systems. It has improved accessibility, personalization, and scalability of learning.\n\nSpecifically, AI tools in classrooms and e-learning environments have led to:\n*   72% of surveyed students reporting an improvement in their learning pace.\n*   Teachers experiencing a reduced administrative workload.\n\nThe overall conclusion is that AI acts as a catalyst for improving learning efficiency and engagement, rather than a replacement for teachers. Future work aims to integrate AI with AR/VR for more immersive classrooms.",
+      "citations": [
+        {
+          "page": 1,
+          "document_name": "paper.pdf"
+        },
+        {
+          "page": 4,
+          "document_name": "paper.pdf"
+        },
+        {
+          "page": 5,
+          "document_name": "paper.pdf"
+        }
+      ]
+    }
+  ],
+  "eaed70a2-c42c-426e-bfc0-1d434831b965": [
+    {
+      "query": "What is the main argument of the document?",
+      "answer": "The main argument is that Artificial Intelligence (AI) plays a transformative role in modern education, acting as a catalyst for improving learning efficiency and engagement by enhancing accessibility, personalization, and scalability, rather than replacing teachers.",
+      "citations": [
+        {
+          "page": 1,
+          "document_name": "report.docx"
+        },
+        {
+          "page": 1,
+          "document_name": "report.docx"
+        },
+        {
+          "page": 1,
+          "document_name": "report.docx"
+        }
+      ]
+    }
+  ],
+  "4b376b40-7f45-4e7f-8dee-328fcbd5e1c5": [
+    {
+      "query": "Explain AI impact in education",
+      "answer": "Artificial Intelligence (AI) has a transformative impact on modern education systems by improving accessibility, personalization, and scalability of learning.\n\nKey impacts include:\n*   **Adaptive Learning:** AI enables adaptive learning platforms that respond to students' progress in real-time.\n*   **Teacher Support:** Educators integrate AI-powered tools for grading, content recommendations, and automated feedback, which also reduces administrative workload for teachers.\n*   **Improved Student Learning:** A study showed that 72% of surveyed students reported an improvement in their learning pace using AI-based tools.\n*   **Efficiency and Engagement:** AI acts as a catalyst for improving learning efficiency and engagement, rather than replacing teachers.\n*   **Future Integration:** Future developments aim to integrate AI with Augmented Reality (AR) and Virtual Reality (VR) for more immersive classrooms.",
+      "citations": [
+        {
+          "page": 1,
+          "document_name": "report.docx"
+        },
+        {
+          "page": 1,
+          "document_name": "report.docx"
+        },
+        {
+          "page": 1,
+          "document_name": "report.docx"
+        }
+      ]
+    }
   ]
 }
